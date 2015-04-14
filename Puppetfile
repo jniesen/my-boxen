@@ -60,3 +60,16 @@ github "xquartz",     "1.2.1"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+github "vagrant",        "3.3.0"
+github "cassandra",   "2.0.2"
+github "icu4c",       "1.0.1"
+github "java",        "1.8.2"
+github "postgresql",  "3.0.3"
+github "python",      "3.0.0", :repo => "mloberg/puppet-python"
+github "redis",       "3.1.0"
+github "sysctl",      "1.0.0"
+github "tmux",        "1.0.2"
+
+# Forked Modules
+dev "vim"
+
